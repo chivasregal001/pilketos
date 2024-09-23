@@ -1,2 +1,2 @@
 # pilketos
-Repository ubtuk Pemilihan Ketua dan Wakil OSIS SMP
+Repository untuk Pemilihan Ketua dan Wakil OSIS SMP
